@@ -58,9 +58,9 @@ Building fast, modern web experiences that feel as good as they look.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayan9476&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=8B5CF6&icon_color=8B5CF6&text_color=F5F5F5&border_color=ffffff10&hide_border=false&count_private=true"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayan9476&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=8B5CF6&icon_color=8B5CF6&text_color=F5F5F5&border_color=ffffff10&hide_border=false&count_private=true"/> -->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayan9476&layout=compact&theme=dark&bg_color=0A0A0A&title_color=8B5CF6&text_color=F5F5F5&border_color=ffffff10&hide_border=false"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayan9476&layout=compact&theme=dark&bg_color=0A0A0A&title_color=8B5CF6&text_color=F5F5F5&border_color=ffffff10&hide_border=false"/> -->
 
 </div>
 
