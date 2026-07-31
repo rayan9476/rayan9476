@@ -54,33 +54,6 @@ Building fast, modern web experiences that feel as good as they look.
 
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayan9476&show_icons=true&theme=dark&bg_color=0A0A0A&title_color=8B5CF6&icon_color=8B5CF6&text_color=F5F5F5&border_color=ffffff10&hide_border=false&count_private=true"/> -->
-
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayan9476&layout=compact&theme=dark&bg_color=0A0A0A&title_color=8B5CF6&text_color=F5F5F5&border_color=ffffff10&hide_border=false"/> -->
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=rayan9476&theme=dark&background=0A0A0A&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&border=ffffff10" />
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rayan9476&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rayan9476&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6"/>
-
-</div>
 
 ---
 
