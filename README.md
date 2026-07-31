@@ -23,9 +23,8 @@ Building fast, modern web experiences that feel as good as they look.
 | Project | Description | Stack | Demo |
 |---|---|---|---|
 | **Rayyan Portfolio** | Animated developer portfolio with GSAP & Framer Motion | React · GSAP · Framer Motion | [Live](your-url) |
-| **Nexlify** | Agency landing page template | React · GSAP · Lenis | [Live](your-url) |
-| **Velvra** | Luxury fashion e-commerce platform | Next.js · MySQL · Stripe | [Live](your-url) |
-| **K72 Agency** | Creative agency portfolio site | React · GSAP · ScrollTrigger | [Live](your-url) |
+| **Nexlify** | Agency landing page template | React · GSAP · Lenis | [Live](https://nexlify-bice.vercel.app/) |
+| **K72 Agency** | Creative agency portfolio site | React · GSAP · ScrollTrigger | [Live](https://k72-agency-dusky.vercel.app/) |
 
 ---
 
