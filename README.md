@@ -84,6 +84,18 @@ Building fast, modern web experiences that feel as good as they look.
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=rayan9476&theme=dark&background=0A0A0A&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&border=ffffff10"/>
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rayan9476&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
 ---
 
 <div align="center">
