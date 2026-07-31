@@ -9,8 +9,8 @@
 **Full Stack Developer** from Karachi, Pakistan 🇵🇰  
 Building fast, modern web experiences that feel as good as they look.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)](https://hellowrayyandev.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rayyankhan)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/yourusername)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hellorayyan.dev@gmail.com)
 
@@ -22,7 +22,7 @@ Building fast, modern web experiences that feel as good as they look.
 
 | Project | Description | Stack | Demo |
 |---|---|---|---|
-| **Rayyan Portfolio** | Animated developer portfolio with GSAP & Framer Motion | React · GSAP · Framer Motion | [Live](your-url) |
+| **Rayyan Portfolio** | Animated developer portfolio with GSAP & Framer Motion | React · GSAP · Framer Motion | [Live](https://hellowrayyandev.vercel.app/) |
 | **Nexlify** | Agency landing page template | React · GSAP · Lenis | [Live](https://nexlify-bice.vercel.app/) |
 | **K72 Agency** | Creative agency portfolio site | React · GSAP · ScrollTrigger | [Live](https://k72-agency-dusky.vercel.app/) |
 
